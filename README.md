@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CyberAegie
+- 👋 Hi, I’m @CyberAegis
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Kali and Python
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me jaddiestechltd@hotmail.com
+- 📫 How to reach me tobialadetuyi@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I fun to be with
 
