@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CyberAegis
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Kali and Python
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m a professional Cybersecurity Analyst
+- 🌱 I’m currently working on collaborating
+- 💞️ Building a deep understanding 
 - 📫 How to reach me tobialadetuyi@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I fun to be with
